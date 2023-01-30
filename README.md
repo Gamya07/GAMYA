@@ -1,2 +1,2 @@
-# GAMYA
+
 C programming 
